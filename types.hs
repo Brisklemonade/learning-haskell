@@ -1,0 +1,3 @@
+-- Show, Ord, Eq, etc are type classes
+-- Functions and parameters can implement these type classes
+-- newHead :: (Show a, Ord a) => [a] -> String

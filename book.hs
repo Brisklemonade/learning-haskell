@@ -1,0 +1,7 @@
+-- infix function = (*,+,-) 
+-- if a function takes two parameters it can be called as an infix function by surrounding it with (`)
+-- print(div 92 10) vs print(90 `div` 10)
+-------
+-- prefix function = most functions
+-------
+-- prepending to a list uses (:) also called the cons operator and is called like this 5 : [1, 5] = [5, 1, 5]
